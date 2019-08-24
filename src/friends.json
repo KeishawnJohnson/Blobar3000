@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Thor",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Chris_Hemsworth_as_Thor.jpg/220px-Chris_Hemsworth_as_Thor.jpg",
+    "power": "God Of Lightning",
+    "alive": "Yes"
+  },
+  {
+    "id": 2,
+    "name": "Captain America",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/captain-america-winter-soldier-1558864125.jpg?crop=0.528xw:1.00xh;0.0143xw,0&resize=480:*",
+    "power": "Super Soldier",
+    "alive": "Yes"
+  },
+  {
+    "id": 3,
+    "name": "Iron Man",
+    "image": "https://o.aolcdn.com/images/dims?quality=85&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1205%252C729%252C323%252C350%26quality%3D85%26format%3Djpg%26resize%3D1600%252C969%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-07%252Fd51a77e0-aa09-11e9-b6f2-d906bb1f8578%26client%3Da1acac3e1b3290917d92%26signature%3D74476d0f9575260af0328558199b3236c04e6776&client=amp-blogside-v2&signature=a637a78be4a5270abdcd1053dbbcc30356198036",
+    "power": "None",
+    "alive": "No"
+  },
+  {
+    "id": 4,
+    "name": "Wasp",
+    "image": "https://cdn3.movieweb.com/i/article/tsutPKq9x9edQNFRuruJCQuWOL0zHg/1200:100/Avengers-4-Wasp-Return-Evangeline-Lilly.jpg",
+    "power": "None",
+    "alive": "Yes"
+  },
+  {
+    "id": 5,
+    "name": "Hulk",
+    "image": "https://i0.wp.com/www.oswegonian.com/wp-content/uploads/2019/04/BestClips.png?resize=715%2C400&ssl=1",
+    "power": "Super Strength",
+    "alive": "Yes"
+  },
+  {
+    "id": 6,
+    "name": "Vision",
+    "image": "https://media1.popsugar-assets.com/files/thumbor/Bg_s_NeOcPHKSHhgO7Eb8lj_ens/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2015/04/28/933/n/1922398/7e4f41b9_av32.JPG",
+    "power": "intelligence",
+    "alive": "No"
+  },
+  {
+    "id": 7,
+    "name": "Wanda",
+    "image": "https://reellifebygrace.files.wordpress.com/2016/09/wanda-maximoff.jpg?w=700",
+    "power": "Sorcery",
+    "alive": "Yes"
+  },
+  {
+    "id": 8,
+    "name": "Black Panther",
+    "image": "https://cdn.vox-cdn.com/thumbor/yIZZYqnpghp6uqr4dZaCl-VDfP4=/0x0:915x610/1200x800/filters:focal(381x34:527x180)/cdn.vox-cdn.com/uploads/chorus_image/image/62662374/boseman.0.jpg",
+    "power": "None",
+    "alive": "Yes"
+  },
+  {
+    "id": 9,
+    "name": "Quick Silver",
+    "image": "https://cdn.images.express.co.uk/img/dynamic/36/590x/Avengers-Infinity-War-Is-Quicksilver-in-Avengers-4-960781.jpg",
+    "power": "Super Speed",
+    "alive": "Yes"
+  },
+  {
+    "id": 10,
+    "name": "Black Widow",
+    "image": "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/08/Black-Widow-The-Avengers-Poster-Cropped.jpg",
+    "power": "None",
+    "alive": "No"
+  },
+  {
+    "id": 11,
+    "name": "Hawk Eye",
+    "image": "https://cnet1.cbsistatic.com/img/7zVwM5TFCMvGO0X71IURpmheQMU=/1092x0/2017/08/03/26d21d88-1244-4704-a426-7a09c2b7ece0/marvelinfinitywar-hawkeye.jpg",
+    "power": "None",
+    "alive": "Yes"
+  },
+  {
+    "id": 12,
+    "name": "Spiderman",
+    "image": "https://wegotthiscovered.com/wp-content/uploads/2019/06/Spider-Man-Far-From-Home-3.jpg",
+    "power": "Spider",
+    "alive": "Yes"
+  }
+]
